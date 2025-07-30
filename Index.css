@@ -1,0 +1,27 @@
+﻿#dirRtl {
+    direction: rtl
+}
+
+#minHeight {
+    min-height: 200px
+}
+
+#newsImg0Style1 {
+    background-image: url(../images/news0.JPG)
+}
+
+#newsImg1Style1 {
+    background-image: url(../images/news1.JPG)
+}
+
+#newsImg2Style1 {
+    background-image: url(../images/news2.JPG)
+}
+
+#newsImg3Style1 {
+    background-image: url(../images/news3.JPG)
+}
+
+#newsImg4Style1 {
+    background-image: url(../images/news4.JPG)
+}

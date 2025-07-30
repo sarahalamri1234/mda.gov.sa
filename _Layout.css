@@ -1,0 +1,60 @@
+﻿#logo_Height {
+    height: 100px;
+}
+
+.logo_heightWidth {
+    height: 110px !important;
+    width: 110px !important;
+}
+select {
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    border-color: transparent;
+}
+
+    select option {
+        background-color: transparent !important;
+        border-color: transparent !important;
+        color: black !important;
+    }
+
+.navExpand {
+    width: 970px;
+}
+#_culture {
+    color: #fff;
+    padding: 0;
+    border: none;
+    background: none;
+    text-decoration: none;
+    background-color: transparent;
+    font-family: "LTAzer";
+    /*font-weight: 600;
+    line-height: 1.5;*/
+    cursor: pointer;
+    padding: 0.4rem 1.2rem;
+    font-size: 19px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    border-radius: 5px;
+}
+
+    #_culture:hover {
+        color: black !important;
+        background-color: white !important;
+    }
+
+._cultureHover {
+    color: black !important;
+}
+
+    ._cultureHover:hover {
+        background-color: rgba(255, 255, 255, 0.95) !important;
+    }
+
+#_culture:focus {
+    background-color: rgba(255, 255, 255, 0.95) !important;
+    color: black !important;
+}
